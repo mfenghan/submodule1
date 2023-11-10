@@ -3,7 +3,7 @@
 	url = https://github.com/mfenghan/test1.git
 [submodule "submodule1/Test2"]
 	path = submodule1/Test2
-	url = https://github.com/mfenghan/test2.git
+	url = git@github.com/mfenghan/test2.git
 [submodule "submodule1/Test3"]
 	path = submodule1/Test3
-	url = https://github.com/mfenghan/test3.git
+	url = git@github.com/mfenghan/test3.git
